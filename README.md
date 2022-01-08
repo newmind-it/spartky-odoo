@@ -1,0 +1,1 @@
+# spartky-odoo
